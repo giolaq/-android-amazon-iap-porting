@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "dev.giolaq.trivialdrivesample.app-merged_res-39:/layout_inventory_header.xml.flat",
+        "source": "dev.giolaq.trivialdrivesample.app-main-41:/layout/inventory_header.xml"
+    },
+    {
+        "merged": "dev.giolaq.trivialdrivesample.app-merged_res-39:/drawable-xhdpi_gas1.png.flat",
+        "source": "dev.giolaq.trivialdrivesample.app-main-41:/drawable-xhdpi/gas1.png"
+    },
+    {
+        "merged": "dev.giolaq.trivialdrivesample.app-merged_res-39:/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "dev.giolaq.trivialdrivesample.app-main-41:/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "dev.giolaq.trivialdrivesample.app-merged_res-39:/drawable-xhdpi_buy_gas.png.flat",
+        "source": "dev.giolaq.trivialdrivesample.app-main-41:/drawable-xhdpi/buy_gas.png"
+    },
+    {
+        "merged": "dev.giolaq.trivialdrivesample.app-merged_res-39:/layout_fragment_make_purchase.xml.flat",
+        "source": "dev.giolaq.trivialdrivesample.app-main-41:/layout/fragment_make_purchase.xml"
+    },
+    {
+        "merged": "dev.giolaq.trivialdrivesample.app-merged_res-39:/drawable-xhdpi_title.png.flat",
+        "source": "dev.giolaq.trivialdrivesample.app-main-41:/drawable-xhdpi/title.png"
+    },
+    {
+        "merged": "dev.giolaq.trivialdrivesample.app-merged_res-39:/drawable-mdpi_ic_launcher.png.flat",
+        "source": "dev.giolaq.trivialdrivesample.app-main-41:/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "dev.giolaq.trivialdrivesample.app-merged_res-39:/drawable-xhdpi_premium.png.flat",
+        "source": "dev.giolaq.trivialdrivesample.app-main-41:/drawable-xhdpi/premium.png"
+    },
+    {
+        "merged": "dev.giolaq.trivialdrivesample.app-merged_res-39:/drawable-xhdpi_gas4.png.flat",
+        "source": "dev.giolaq.trivialdrivesample.app-main-41:/drawable-xhdpi/gas4.png"
+    },
+    {
+        "merged": "dev.giolaq.trivialdrivesample.app-merged_res-39:/layout_inventory_item.xml.flat",
+        "source": "dev.giolaq.trivialdrivesample.app-main-41:/layout/inventory_item.xml"
+    },
+    {
+        "merged": "dev.giolaq.trivialdrivesample.app-merged_res-39:/menu_activity_main.xml.flat",
+        "source": "dev.giolaq.trivialdrivesample.app-main-41:/menu/activity_main.xml"
+    },
+    {
+        "merged": "dev.giolaq.trivialdrivesample.app-merged_res-39:/drawable-xhdpi_gas2.png.flat",
+        "source": "dev.giolaq.trivialdrivesample.app-main-41:/drawable-xhdpi/gas2.png"
+    },
+    {
+        "merged": "dev.giolaq.trivialdrivesample.app-merged_res-39:/font_press_start_2p.xml.flat",
+        "source": "dev.giolaq.trivialdrivesample.app-main-41:/font/press_start_2p.xml"
+    },
+    {
+        "merged": "dev.giolaq.trivialdrivesample.app-merged_res-39:/drawable-xhdpi_gas_inf.png.flat",
+        "source": "dev.giolaq.trivialdrivesample.app-main-41:/drawable-xhdpi/gas_inf.png"
+    },
+    {
+        "merged": "dev.giolaq.trivialdrivesample.app-merged_res-39:/drawable-ldpi_ic_launcher.png.flat",
+        "source": "dev.giolaq.trivialdrivesample.app-main-41:/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "dev.giolaq.trivialdrivesample.app-merged_res-39:/drawable-xhdpi_gas0.png.flat",
+        "source": "dev.giolaq.trivialdrivesample.app-main-41:/drawable-xhdpi/gas0.png"
+    },
+    {
+        "merged": "dev.giolaq.trivialdrivesample.app-merged_res-39:/drawable-xhdpi_upgrade_app.png.flat",
+        "source": "dev.giolaq.trivialdrivesample.app-main-41:/drawable-xhdpi/upgrade_app.png"
+    },
+    {
+        "merged": "dev.giolaq.trivialdrivesample.app-merged_res-39:/drawable-hdpi_ic_launcher.png.flat",
+        "source": "dev.giolaq.trivialdrivesample.app-main-41:/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "dev.giolaq.trivialdrivesample.app-merged_res-39:/layout_activity_main.xml.flat",
+        "source": "dev.giolaq.trivialdrivesample.app-main-41:/layout/activity_main.xml"
+    },
+    {
+        "merged": "dev.giolaq.trivialdrivesample.app-merged_res-39:/navigation_navigation_graph.xml.flat",
+        "source": "dev.giolaq.trivialdrivesample.app-main-41:/navigation/navigation_graph.xml"
+    },
+    {
+        "merged": "dev.giolaq.trivialdrivesample.app-merged_res-39:/drawable-xhdpi_free.png.flat",
+        "source": "dev.giolaq.trivialdrivesample.app-main-41:/drawable-xhdpi/free.png"
+    },
+    {
+        "merged": "dev.giolaq.trivialdrivesample.app-merged_res-39:/drawable-xhdpi_gas3.png.flat",
+        "source": "dev.giolaq.trivialdrivesample.app-main-41:/drawable-xhdpi/gas3.png"
+    },
+    {
+        "merged": "dev.giolaq.trivialdrivesample.app-merged_res-39:/layout_fragment_game.xml.flat",
+        "source": "dev.giolaq.trivialdrivesample.app-main-41:/layout/fragment_game.xml"
+    },
+    {
+        "merged": "dev.giolaq.trivialdrivesample.app-merged_res-39:/drawable-xhdpi_get_infinite_gas.png.flat",
+        "source": "dev.giolaq.trivialdrivesample.app-main-41:/drawable-xhdpi/get_infinite_gas.png"
+    }
+]

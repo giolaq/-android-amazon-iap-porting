@@ -1,0 +1,344 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:17:1-47:12
+INJECTED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:17:1-47:12
+INJECTED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:17:1-47:12
+INJECTED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:17:1-47:12
+MERGED from [androidx.databinding:databinding-adapters:7.3.0] /Users/laquigi/.gradle/caches/transforms-3/4448f05a0fa7fc3c950523cd32411bd6/transformed/databinding-adapters-7.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.databinding:databinding-ktx:7.3.0] /Users/laquigi/.gradle/caches/transforms-3/ea2acf2f4b205c2555f7e4d979973f6c/transformed/jetified-databinding-ktx-7.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.databinding:databinding-runtime:7.3.0] /Users/laquigi/.gradle/caches/transforms-3/5762ce2fb7b407f7ed06737cae79f710/transformed/databinding-runtime-7.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] /Users/laquigi/.gradle/caches/transforms-3/a728563a153e6ee6446322417ce64ad5/transformed/navigation-ui-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /Users/laquigi/.gradle/caches/transforms-3/876cc8b178eb97d991c1dfbf7184bc20/transformed/navigation-ui-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.3.0] /Users/laquigi/.gradle/caches/transforms-3/b126fe7e9d2ed03612782235e1e2c4de/transformed/material-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/laquigi/.gradle/caches/transforms-3/8d9305c57691356071eeaf7df980f838/transformed/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/laquigi/.gradle/caches/transforms-3/dadaa32fa6851870770be4ec9116af7c/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.billingclient:billing-ktx:4.0.0] /Users/laquigi/.gradle/caches/transforms-3/b4c3d9fe127b6ce7b6c2cca8052042c9/transformed/jetified-billing-ktx-4.0.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/laquigi/.gradle/caches/transforms-3/ab635422f4c5c6e2c60fdbb4a19b2475/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-ktx:2.4.3] /Users/laquigi/.gradle/caches/transforms-3/acb668cf28e78ea966cf04f4190c2055/transformed/jetified-room-ktx-2.4.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.4.3] /Users/laquigi/.gradle/caches/transforms-3/2a7570b848a35b90e6e2851ba5e37c9e/transformed/room-runtime-2.4.3/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/f8f2a3ef00040c1cb7a48147424a5a75/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] /Users/laquigi/.gradle/caches/transforms-3/07934a4f3e45a9fd31ec7dcaa48f4cfa/transformed/navigation-fragment-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/5aada7f91d4b99d3b5060bcb233a7abd/transformed/jetified-lifecycle-livedata-ktx-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] /Users/laquigi/.gradle/caches/transforms-3/ad2b11185c56f6b1e2405a21350f32fb/transformed/navigation-runtime-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/laquigi/.gradle/caches/transforms-3/d8708648424172854af082898dc44267/transformed/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/laquigi/.gradle/caches/transforms-3/d74f6a26564f608d9ee068ca9ca169ee/transformed/jetified-activity-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/4fb622f2f54dade5588b3bc4abdc24ce/transformed/jetified-lifecycle-viewmodel-ktx-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/c61464d3da5999b71dcb9a02af7d7fef/transformed/jetified-lifecycle-runtime-ktx-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] /Users/laquigi/.gradle/caches/transforms-3/650794bbbdd42427f56f9a69ac037532/transformed/navigation-common-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/laquigi/.gradle/caches/transforms-3/8640f2a0b20fe5d3b4252e5de6bccfb2/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/laquigi/.gradle/caches/transforms-3/0ccf576f4d911511e46af0b362a140c9/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/laquigi/.gradle/caches/transforms-3/1988085e6bffb0a0acf73a71e5c7c34a/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/laquigi/.gradle/caches/transforms-3/40552287e893640748cec43870c8f3f3/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/laquigi/.gradle/caches/transforms-3/b8ce71611894b370fc2b0e5a11c110b8/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/laquigi/.gradle/caches/transforms-3/5e130ddfa7a207e3ffcbe94c6768c7b9/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/laquigi/.gradle/caches/transforms-3/505a495422935ada60225e1d42e4cf67/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/laquigi/.gradle/caches/transforms-3/c47045af0442414969f3d9e941202972/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] /Users/laquigi/.gradle/caches/transforms-3/b2c89e0662527898dcd51a4a7bbca828/transformed/navigation-fragment-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/laquigi/.gradle/caches/transforms-3/322a64677eaad9f4818750e6ca190c90/transformed/fragment-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/laquigi/.gradle/caches/transforms-3/d200386113c4f4d1435bf99a64a8c472/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/laquigi/.gradle/caches/transforms-3/76e224d3e2d0415c4ca1b1856a28cc30/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/laquigi/.gradle/caches/transforms-3/a0a3d49aec00d95ee162e4d7df156912/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] /Users/laquigi/.gradle/caches/transforms-3/33ad2b1bf0c233377d4b4812ddd32e32/transformed/transition-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/laquigi/.gradle/caches/transforms-3/d515878b4df16564f5ec856520f03166/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /Users/laquigi/.gradle/caches/transforms-3/5d8fcc3e6cd3c95ac22ef247db22165c/transformed/navigation-runtime-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/laquigi/.gradle/caches/transforms-3/f01c6fb02072b0a560aec79b72577fa4/transformed/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.5] /Users/laquigi/.gradle/caches/transforms-3/7614609f44d3c0aafca883d5a8635f11/transformed/navigation-common-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.2] /Users/laquigi/.gradle/caches/transforms-3/4f7866f1a5b9975dcc5d6080327626b1/transformed/core-1.3.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/laquigi/.gradle/caches/transforms-3/fc14886f8fad3fcc19bb70d12cdb5ece/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.databinding:viewbinding:7.3.0] /Users/laquigi/.gradle/caches/transforms-3/f33f3008e17113c86d45bf8de7735360/transformed/jetified-viewbinding-7.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/23af019b86aa0065cae3effc31dc8e60/transformed/jetified-lifecycle-service-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/d2d96d1f32308cd541e35c814359f264/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/e95e5cef0dc805dc21dc92c2ea9dd763/transformed/lifecycle-livedata-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/laquigi/.gradle/caches/transforms-3/5425bd2b0d5cac0904740926ecde4557/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/5c178ace2737f3b2ed88d1d2b66dd712/transformed/lifecycle-viewmodel-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/laquigi/.gradle/caches/transforms-3/53b4040bdab65c28948333770dc4ba35/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/laquigi/.gradle/caches/transforms-3/330cd1fcb4a5511d6ba379cc27c373c2/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] /Users/laquigi/.gradle/caches/transforms-3/bb98c2aef7e7aa16f6fce66a13ae2a8f/transformed/sqlite-framework-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.2.0] /Users/laquigi/.gradle/caches/transforms-3/858f57a526d2c6e7e7b1506e59276494/transformed/sqlite-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/laquigi/.gradle/caches/transforms-3/098e63410fb42b3db63cdbaec260203f/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/a220e7c3c4ce447b7ca91527fa78d329/transformed/jetified-lifecycle-livedata-core-ktx-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/ecdf7c7ea826cc03f13ba72d4073f6ac/transformed/lifecycle-livedata-core-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/laquigi/.gradle/caches/transforms-3/9b3d8d146bd2abba7e8ef57b002d4e58/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/laquigi/.gradle/caches/transforms-3/1e871f1b743e7f4f675a9412c8341168/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/laquigi/.gradle/caches/transforms-3/bc4c4fc7765aee244364af550cdd6782/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/laquigi/.gradle/caches/transforms-3/7c1f640cfdc0d5fb6f4c95901b7306d7/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/laquigi/.gradle/caches/transforms-3/8d19d219407b7cb4d3c1d3fb295e915e/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/laquigi/.gradle/caches/transforms-3/a3e004de8a7f5660f765a86e504406f1/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/laquigi/.gradle/caches/transforms-3/a9b4c04b17c11994c03392a7a347c14e/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.billingclient:billing:4.0.0] /Users/laquigi/.gradle/caches/transforms-3/4dc7c9b70e6960a7790a6bc883454800/transformed/jetified-billing-4.0.0/AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/laquigi/.gradle/caches/transforms-3/14efc4c751ee2de9c91cf21f031e42bf/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:17:1-47:12
+INJECTED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:17:1-47:12
+INJECTED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:17:1-47:12
+	package
+		INJECTED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml
+		ADDED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:17:1-47:12
+		INJECTED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml
+		ADDED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:17:1-47:12
+		INJECTED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml
+		ADDED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:17:1-47:12
+		INJECTED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:17:11-69
+application
+ADDED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:19:5-46:19
+MERGED from [com.google.android.material:material:1.3.0] /Users/laquigi/.gradle/caches/transforms-3/b126fe7e9d2ed03612782235e1e2c4de/transformed/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] /Users/laquigi/.gradle/caches/transforms-3/b126fe7e9d2ed03612782235e1e2c4de/transformed/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/laquigi/.gradle/caches/transforms-3/8d9305c57691356071eeaf7df980f838/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/laquigi/.gradle/caches/transforms-3/8d9305c57691356071eeaf7df980f838/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.room:room-runtime:2.4.3] /Users/laquigi/.gradle/caches/transforms-3/2a7570b848a35b90e6e2851ba5e37c9e/transformed/room-runtime-2.4.3/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.4.3] /Users/laquigi/.gradle/caches/transforms-3/2a7570b848a35b90e6e2851ba5e37c9e/transformed/room-runtime-2.4.3/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/f8f2a3ef00040c1cb7a48147424a5a75/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/f8f2a3ef00040c1cb7a48147424a5a75/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.3.2] /Users/laquigi/.gradle/caches/transforms-3/4f7866f1a5b9975dcc5d6080327626b1/transformed/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] /Users/laquigi/.gradle/caches/transforms-3/4f7866f1a5b9975dcc5d6080327626b1/transformed/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/laquigi/.gradle/caches/transforms-3/fc14886f8fad3fcc19bb70d12cdb5ece/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/laquigi/.gradle/caches/transforms-3/fc14886f8fad3fcc19bb70d12cdb5ece/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/laquigi/.gradle/caches/transforms-3/098e63410fb42b3db63cdbaec260203f/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/laquigi/.gradle/caches/transforms-3/098e63410fb42b3db63cdbaec260203f/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [com.android.billingclient:billing:4.0.0] /Users/laquigi/.gradle/caches/transforms-3/4dc7c9b70e6960a7790a6bc883454800/transformed/jetified-billing-4.0.0/AndroidManifest.xml:12:5-22:19
+MERGED from [com.android.billingclient:billing:4.0.0] /Users/laquigi/.gradle/caches/transforms-3/4dc7c9b70e6960a7790a6bc883454800/transformed/jetified-billing-4.0.0/AndroidManifest.xml:12:5-22:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] /Users/laquigi/.gradle/caches/transforms-3/4f7866f1a5b9975dcc5d6080327626b1/transformed/core-1.3.2/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:25:9-35
+	android:label
+		ADDED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:22:9-41
+	android:icon
+		ADDED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:23:9-45
+	android:allowBackup
+		ADDED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:24:9-40
+	android:name
+		ADDED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:20:9-85
+activity#com.sample.android.trivialdrivesample.ui.MainActivity
+ADDED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:26:9-34:20
+	android:label
+		ADDED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:28:13-56
+	android:exported
+		ADDED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:27:13-81
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:32:27-74
+receiver#com.amazon.device.iap.ResponseReceiver
+ADDED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:35:9-42:20
+	android:exported
+		ADDED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:38:13-79
+	android:name
+		ADDED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:36:13-66
+intent-filter#action:name:com.amazon.inapp.purchasing.NOTIFY
+ADDED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:39:13-41:29
+action#com.amazon.inapp.purchasing.NOTIFY
+ADDED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:40:25-74
+meta-data#preloaded_fonts
+ADDED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:43:9-45:57
+	android:resource
+		ADDED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:45:13-54
+	android:name
+		ADDED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:44:13-43
+uses-sdk
+INJECTED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml
+INJECTED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:7.3.0] /Users/laquigi/.gradle/caches/transforms-3/4448f05a0fa7fc3c950523cd32411bd6/transformed/databinding-adapters-7.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:databinding-adapters:7.3.0] /Users/laquigi/.gradle/caches/transforms-3/4448f05a0fa7fc3c950523cd32411bd6/transformed/databinding-adapters-7.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:databinding-ktx:7.3.0] /Users/laquigi/.gradle/caches/transforms-3/ea2acf2f4b205c2555f7e4d979973f6c/transformed/jetified-databinding-ktx-7.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:databinding-ktx:7.3.0] /Users/laquigi/.gradle/caches/transforms-3/ea2acf2f4b205c2555f7e4d979973f6c/transformed/jetified-databinding-ktx-7.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:databinding-runtime:7.3.0] /Users/laquigi/.gradle/caches/transforms-3/5762ce2fb7b407f7ed06737cae79f710/transformed/databinding-runtime-7.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:databinding-runtime:7.3.0] /Users/laquigi/.gradle/caches/transforms-3/5762ce2fb7b407f7ed06737cae79f710/transformed/databinding-runtime-7.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] /Users/laquigi/.gradle/caches/transforms-3/a728563a153e6ee6446322417ce64ad5/transformed/navigation-ui-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] /Users/laquigi/.gradle/caches/transforms-3/a728563a153e6ee6446322417ce64ad5/transformed/navigation-ui-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /Users/laquigi/.gradle/caches/transforms-3/876cc8b178eb97d991c1dfbf7184bc20/transformed/navigation-ui-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /Users/laquigi/.gradle/caches/transforms-3/876cc8b178eb97d991c1dfbf7184bc20/transformed/navigation-ui-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.3.0] /Users/laquigi/.gradle/caches/transforms-3/b126fe7e9d2ed03612782235e1e2c4de/transformed/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] /Users/laquigi/.gradle/caches/transforms-3/b126fe7e9d2ed03612782235e1e2c4de/transformed/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/laquigi/.gradle/caches/transforms-3/8d9305c57691356071eeaf7df980f838/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/laquigi/.gradle/caches/transforms-3/8d9305c57691356071eeaf7df980f838/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/laquigi/.gradle/caches/transforms-3/dadaa32fa6851870770be4ec9116af7c/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/laquigi/.gradle/caches/transforms-3/dadaa32fa6851870770be4ec9116af7c/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.billingclient:billing-ktx:4.0.0] /Users/laquigi/.gradle/caches/transforms-3/b4c3d9fe127b6ce7b6c2cca8052042c9/transformed/jetified-billing-ktx-4.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.billingclient:billing-ktx:4.0.0] /Users/laquigi/.gradle/caches/transforms-3/b4c3d9fe127b6ce7b6c2cca8052042c9/transformed/jetified-billing-ktx-4.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/laquigi/.gradle/caches/transforms-3/ab635422f4c5c6e2c60fdbb4a19b2475/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/laquigi/.gradle/caches/transforms-3/ab635422f4c5c6e2c60fdbb4a19b2475/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.4.3] /Users/laquigi/.gradle/caches/transforms-3/acb668cf28e78ea966cf04f4190c2055/transformed/jetified-room-ktx-2.4.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.4.3] /Users/laquigi/.gradle/caches/transforms-3/acb668cf28e78ea966cf04f4190c2055/transformed/jetified-room-ktx-2.4.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.4.3] /Users/laquigi/.gradle/caches/transforms-3/2a7570b848a35b90e6e2851ba5e37c9e/transformed/room-runtime-2.4.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.4.3] /Users/laquigi/.gradle/caches/transforms-3/2a7570b848a35b90e6e2851ba5e37c9e/transformed/room-runtime-2.4.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/f8f2a3ef00040c1cb7a48147424a5a75/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/f8f2a3ef00040c1cb7a48147424a5a75/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] /Users/laquigi/.gradle/caches/transforms-3/07934a4f3e45a9fd31ec7dcaa48f4cfa/transformed/navigation-fragment-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] /Users/laquigi/.gradle/caches/transforms-3/07934a4f3e45a9fd31ec7dcaa48f4cfa/transformed/navigation-fragment-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/5aada7f91d4b99d3b5060bcb233a7abd/transformed/jetified-lifecycle-livedata-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/5aada7f91d4b99d3b5060bcb233a7abd/transformed/jetified-lifecycle-livedata-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] /Users/laquigi/.gradle/caches/transforms-3/ad2b11185c56f6b1e2405a21350f32fb/transformed/navigation-runtime-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] /Users/laquigi/.gradle/caches/transforms-3/ad2b11185c56f6b1e2405a21350f32fb/transformed/navigation-runtime-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/laquigi/.gradle/caches/transforms-3/d8708648424172854af082898dc44267/transformed/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/laquigi/.gradle/caches/transforms-3/d8708648424172854af082898dc44267/transformed/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/laquigi/.gradle/caches/transforms-3/d74f6a26564f608d9ee068ca9ca169ee/transformed/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/laquigi/.gradle/caches/transforms-3/d74f6a26564f608d9ee068ca9ca169ee/transformed/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/4fb622f2f54dade5588b3bc4abdc24ce/transformed/jetified-lifecycle-viewmodel-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/4fb622f2f54dade5588b3bc4abdc24ce/transformed/jetified-lifecycle-viewmodel-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/c61464d3da5999b71dcb9a02af7d7fef/transformed/jetified-lifecycle-runtime-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/c61464d3da5999b71dcb9a02af7d7fef/transformed/jetified-lifecycle-runtime-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] /Users/laquigi/.gradle/caches/transforms-3/650794bbbdd42427f56f9a69ac037532/transformed/navigation-common-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] /Users/laquigi/.gradle/caches/transforms-3/650794bbbdd42427f56f9a69ac037532/transformed/navigation-common-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/laquigi/.gradle/caches/transforms-3/8640f2a0b20fe5d3b4252e5de6bccfb2/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/laquigi/.gradle/caches/transforms-3/8640f2a0b20fe5d3b4252e5de6bccfb2/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/laquigi/.gradle/caches/transforms-3/0ccf576f4d911511e46af0b362a140c9/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/laquigi/.gradle/caches/transforms-3/0ccf576f4d911511e46af0b362a140c9/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/laquigi/.gradle/caches/transforms-3/1988085e6bffb0a0acf73a71e5c7c34a/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/laquigi/.gradle/caches/transforms-3/1988085e6bffb0a0acf73a71e5c7c34a/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/laquigi/.gradle/caches/transforms-3/40552287e893640748cec43870c8f3f3/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/laquigi/.gradle/caches/transforms-3/40552287e893640748cec43870c8f3f3/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/laquigi/.gradle/caches/transforms-3/b8ce71611894b370fc2b0e5a11c110b8/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/laquigi/.gradle/caches/transforms-3/b8ce71611894b370fc2b0e5a11c110b8/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/laquigi/.gradle/caches/transforms-3/5e130ddfa7a207e3ffcbe94c6768c7b9/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/laquigi/.gradle/caches/transforms-3/5e130ddfa7a207e3ffcbe94c6768c7b9/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/laquigi/.gradle/caches/transforms-3/505a495422935ada60225e1d42e4cf67/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/laquigi/.gradle/caches/transforms-3/505a495422935ada60225e1d42e4cf67/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/laquigi/.gradle/caches/transforms-3/c47045af0442414969f3d9e941202972/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/laquigi/.gradle/caches/transforms-3/c47045af0442414969f3d9e941202972/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] /Users/laquigi/.gradle/caches/transforms-3/b2c89e0662527898dcd51a4a7bbca828/transformed/navigation-fragment-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] /Users/laquigi/.gradle/caches/transforms-3/b2c89e0662527898dcd51a4a7bbca828/transformed/navigation-fragment-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/laquigi/.gradle/caches/transforms-3/322a64677eaad9f4818750e6ca190c90/transformed/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/laquigi/.gradle/caches/transforms-3/322a64677eaad9f4818750e6ca190c90/transformed/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/laquigi/.gradle/caches/transforms-3/d200386113c4f4d1435bf99a64a8c472/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/laquigi/.gradle/caches/transforms-3/d200386113c4f4d1435bf99a64a8c472/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/laquigi/.gradle/caches/transforms-3/76e224d3e2d0415c4ca1b1856a28cc30/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/laquigi/.gradle/caches/transforms-3/76e224d3e2d0415c4ca1b1856a28cc30/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/laquigi/.gradle/caches/transforms-3/a0a3d49aec00d95ee162e4d7df156912/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/laquigi/.gradle/caches/transforms-3/a0a3d49aec00d95ee162e4d7df156912/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/laquigi/.gradle/caches/transforms-3/33ad2b1bf0c233377d4b4812ddd32e32/transformed/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/laquigi/.gradle/caches/transforms-3/33ad2b1bf0c233377d4b4812ddd32e32/transformed/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/laquigi/.gradle/caches/transforms-3/d515878b4df16564f5ec856520f03166/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/laquigi/.gradle/caches/transforms-3/d515878b4df16564f5ec856520f03166/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /Users/laquigi/.gradle/caches/transforms-3/5d8fcc3e6cd3c95ac22ef247db22165c/transformed/navigation-runtime-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /Users/laquigi/.gradle/caches/transforms-3/5d8fcc3e6cd3c95ac22ef247db22165c/transformed/navigation-runtime-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/laquigi/.gradle/caches/transforms-3/f01c6fb02072b0a560aec79b72577fa4/transformed/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/laquigi/.gradle/caches/transforms-3/f01c6fb02072b0a560aec79b72577fa4/transformed/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] /Users/laquigi/.gradle/caches/transforms-3/7614609f44d3c0aafca883d5a8635f11/transformed/navigation-common-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] /Users/laquigi/.gradle/caches/transforms-3/7614609f44d3c0aafca883d5a8635f11/transformed/navigation-common-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /Users/laquigi/.gradle/caches/transforms-3/4f7866f1a5b9975dcc5d6080327626b1/transformed/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /Users/laquigi/.gradle/caches/transforms-3/4f7866f1a5b9975dcc5d6080327626b1/transformed/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/laquigi/.gradle/caches/transforms-3/fc14886f8fad3fcc19bb70d12cdb5ece/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/laquigi/.gradle/caches/transforms-3/fc14886f8fad3fcc19bb70d12cdb5ece/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.3.0] /Users/laquigi/.gradle/caches/transforms-3/f33f3008e17113c86d45bf8de7735360/transformed/jetified-viewbinding-7.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:viewbinding:7.3.0] /Users/laquigi/.gradle/caches/transforms-3/f33f3008e17113c86d45bf8de7735360/transformed/jetified-viewbinding-7.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/23af019b86aa0065cae3effc31dc8e60/transformed/jetified-lifecycle-service-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/23af019b86aa0065cae3effc31dc8e60/transformed/jetified-lifecycle-service-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/d2d96d1f32308cd541e35c814359f264/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/d2d96d1f32308cd541e35c814359f264/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/e95e5cef0dc805dc21dc92c2ea9dd763/transformed/lifecycle-livedata-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/e95e5cef0dc805dc21dc92c2ea9dd763/transformed/lifecycle-livedata-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/laquigi/.gradle/caches/transforms-3/5425bd2b0d5cac0904740926ecde4557/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/laquigi/.gradle/caches/transforms-3/5425bd2b0d5cac0904740926ecde4557/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/5c178ace2737f3b2ed88d1d2b66dd712/transformed/lifecycle-viewmodel-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/5c178ace2737f3b2ed88d1d2b66dd712/transformed/lifecycle-viewmodel-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/laquigi/.gradle/caches/transforms-3/53b4040bdab65c28948333770dc4ba35/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/laquigi/.gradle/caches/transforms-3/53b4040bdab65c28948333770dc4ba35/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/laquigi/.gradle/caches/transforms-3/330cd1fcb4a5511d6ba379cc27c373c2/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/laquigi/.gradle/caches/transforms-3/330cd1fcb4a5511d6ba379cc27c373c2/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] /Users/laquigi/.gradle/caches/transforms-3/bb98c2aef7e7aa16f6fce66a13ae2a8f/transformed/sqlite-framework-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] /Users/laquigi/.gradle/caches/transforms-3/bb98c2aef7e7aa16f6fce66a13ae2a8f/transformed/sqlite-framework-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0] /Users/laquigi/.gradle/caches/transforms-3/858f57a526d2c6e7e7b1506e59276494/transformed/sqlite-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0] /Users/laquigi/.gradle/caches/transforms-3/858f57a526d2c6e7e7b1506e59276494/transformed/sqlite-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/laquigi/.gradle/caches/transforms-3/098e63410fb42b3db63cdbaec260203f/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/laquigi/.gradle/caches/transforms-3/098e63410fb42b3db63cdbaec260203f/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/a220e7c3c4ce447b7ca91527fa78d329/transformed/jetified-lifecycle-livedata-core-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/a220e7c3c4ce447b7ca91527fa78d329/transformed/jetified-lifecycle-livedata-core-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/ecdf7c7ea826cc03f13ba72d4073f6ac/transformed/lifecycle-livedata-core-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/ecdf7c7ea826cc03f13ba72d4073f6ac/transformed/lifecycle-livedata-core-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/laquigi/.gradle/caches/transforms-3/9b3d8d146bd2abba7e8ef57b002d4e58/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/laquigi/.gradle/caches/transforms-3/9b3d8d146bd2abba7e8ef57b002d4e58/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/laquigi/.gradle/caches/transforms-3/1e871f1b743e7f4f675a9412c8341168/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/laquigi/.gradle/caches/transforms-3/1e871f1b743e7f4f675a9412c8341168/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/laquigi/.gradle/caches/transforms-3/bc4c4fc7765aee244364af550cdd6782/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/laquigi/.gradle/caches/transforms-3/bc4c4fc7765aee244364af550cdd6782/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/laquigi/.gradle/caches/transforms-3/7c1f640cfdc0d5fb6f4c95901b7306d7/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/laquigi/.gradle/caches/transforms-3/7c1f640cfdc0d5fb6f4c95901b7306d7/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/laquigi/.gradle/caches/transforms-3/8d19d219407b7cb4d3c1d3fb295e915e/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/laquigi/.gradle/caches/transforms-3/8d19d219407b7cb4d3c1d3fb295e915e/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/laquigi/.gradle/caches/transforms-3/a3e004de8a7f5660f765a86e504406f1/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/laquigi/.gradle/caches/transforms-3/a3e004de8a7f5660f765a86e504406f1/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/laquigi/.gradle/caches/transforms-3/a9b4c04b17c11994c03392a7a347c14e/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/laquigi/.gradle/caches/transforms-3/a9b4c04b17c11994c03392a7a347c14e/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.billingclient:billing:4.0.0] /Users/laquigi/.gradle/caches/transforms-3/4dc7c9b70e6960a7790a6bc883454800/transformed/jetified-billing-4.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.billingclient:billing:4.0.0] /Users/laquigi/.gradle/caches/transforms-3/4dc7c9b70e6960a7790a6bc883454800/transformed/jetified-billing-4.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/laquigi/.gradle/caches/transforms-3/14efc4c751ee2de9c91cf21f031e42bf/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/laquigi/.gradle/caches/transforms-3/14efc4c751ee2de9c91cf21f031e42bf/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml
+INJECTED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml
+		ADDED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml
+		ADDED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml
+uses-permission#com.android.vending.BILLING
+ADDED from [com.android.billingclient:billing-ktx:4.0.0] /Users/laquigi/.gradle/caches/transforms-3/b4c3d9fe127b6ce7b6c2cca8052042c9/transformed/jetified-billing-ktx-4.0.0/AndroidManifest.xml:9:5-67
+MERGED from [com.android.billingclient:billing:4.0.0] /Users/laquigi/.gradle/caches/transforms-3/4dc7c9b70e6960a7790a6bc883454800/transformed/jetified-billing-4.0.0/AndroidManifest.xml:10:5-67
+MERGED from [com.android.billingclient:billing:4.0.0] /Users/laquigi/.gradle/caches/transforms-3/4dc7c9b70e6960a7790a6bc883454800/transformed/jetified-billing-4.0.0/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from [com.android.billingclient:billing-ktx:4.0.0] /Users/laquigi/.gradle/caches/transforms-3/b4c3d9fe127b6ce7b6c2cca8052042c9/transformed/jetified-billing-ktx-4.0.0/AndroidManifest.xml:9:22-64
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.4.3] /Users/laquigi/.gradle/caches/transforms-3/2a7570b848a35b90e6e2851ba5e37c9e/transformed/room-runtime-2.4.3/AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.4.3] /Users/laquigi/.gradle/caches/transforms-3/2a7570b848a35b90e6e2851ba5e37c9e/transformed/room-runtime-2.4.3/AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.4.3] /Users/laquigi/.gradle/caches/transforms-3/2a7570b848a35b90e6e2851ba5e37c9e/transformed/room-runtime-2.4.3/AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.4.3] /Users/laquigi/.gradle/caches/transforms-3/2a7570b848a35b90e6e2851ba5e37c9e/transformed/room-runtime-2.4.3/AndroidManifest.xml:26:13-74
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/f8f2a3ef00040c1cb7a48147424a5a75/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/laquigi/.gradle/caches/transforms-3/098e63410fb42b3db63cdbaec260203f/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/laquigi/.gradle/caches/transforms-3/098e63410fb42b3db63cdbaec260203f/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/f8f2a3ef00040c1cb7a48147424a5a75/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/f8f2a3ef00040c1cb7a48147424a5a75/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/f8f2a3ef00040c1cb7a48147424a5a75/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/f8f2a3ef00040c1cb7a48147424a5a75/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/f8f2a3ef00040c1cb7a48147424a5a75/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/f8f2a3ef00040c1cb7a48147424a5a75/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/f8f2a3ef00040c1cb7a48147424a5a75/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+meta-data#com.google.android.play.billingclient.version
+ADDED from [com.android.billingclient:billing:4.0.0] /Users/laquigi/.gradle/caches/transforms-3/4dc7c9b70e6960a7790a6bc883454800/transformed/jetified-billing-4.0.0/AndroidManifest.xml:13:9-15:37
+	android:value
+		ADDED from [com.android.billingclient:billing:4.0.0] /Users/laquigi/.gradle/caches/transforms-3/4dc7c9b70e6960a7790a6bc883454800/transformed/jetified-billing-4.0.0/AndroidManifest.xml:15:13-34
+	android:name
+		ADDED from [com.android.billingclient:billing:4.0.0] /Users/laquigi/.gradle/caches/transforms-3/4dc7c9b70e6960a7790a6bc883454800/transformed/jetified-billing-4.0.0/AndroidManifest.xml:14:13-73
+activity#com.android.billingclient.api.ProxyBillingActivity
+ADDED from [com.android.billingclient:billing:4.0.0] /Users/laquigi/.gradle/caches/transforms-3/4dc7c9b70e6960a7790a6bc883454800/transformed/jetified-billing-4.0.0/AndroidManifest.xml:17:9-21:75
+	android:exported
+		ADDED from [com.android.billingclient:billing:4.0.0] /Users/laquigi/.gradle/caches/transforms-3/4dc7c9b70e6960a7790a6bc883454800/transformed/jetified-billing-4.0.0/AndroidManifest.xml:20:13-37
+	android:configChanges
+		ADDED from [com.android.billingclient:billing:4.0.0] /Users/laquigi/.gradle/caches/transforms-3/4dc7c9b70e6960a7790a6bc883454800/transformed/jetified-billing-4.0.0/AndroidManifest.xml:19:13-96
+	android:theme
+		ADDED from [com.android.billingclient:billing:4.0.0] /Users/laquigi/.gradle/caches/transforms-3/4dc7c9b70e6960a7790a6bc883454800/transformed/jetified-billing-4.0.0/AndroidManifest.xml:21:13-72
+	android:name
+		ADDED from [com.android.billingclient:billing:4.0.0] /Users/laquigi/.gradle/caches/transforms-3/4dc7c9b70e6960a7790a6bc883454800/transformed/jetified-billing-4.0.0/AndroidManifest.xml:18:13-78

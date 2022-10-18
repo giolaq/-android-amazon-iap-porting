@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "dev.giolaq.trivialdrivesample.app-mergeDebugResources-38:/layout/inventory_item.xml",
+        "source": "dev.giolaq.trivialdrivesample.app-main-41:/layout/inventory_item.xml"
+    },
+    {
+        "merged": "dev.giolaq.trivialdrivesample.app-mergeDebugResources-38:/layout/fragment_make_purchase.xml",
+        "source": "dev.giolaq.trivialdrivesample.app-main-41:/layout/fragment_make_purchase.xml"
+    },
+    {
+        "merged": "dev.giolaq.trivialdrivesample.app-mergeDebugResources-38:/layout/fragment_game.xml",
+        "source": "dev.giolaq.trivialdrivesample.app-main-41:/layout/fragment_game.xml"
+    },
+    {
+        "merged": "dev.giolaq.trivialdrivesample.app-mergeDebugResources-38:/layout/inventory_header.xml",
+        "source": "dev.giolaq.trivialdrivesample.app-main-41:/layout/inventory_header.xml"
+    },
+    {
+        "merged": "dev.giolaq.trivialdrivesample.app-mergeDebugResources-38:/layout/activity_main.xml",
+        "source": "dev.giolaq.trivialdrivesample.app-main-41:/layout/activity_main.xml"
+    }
+]
