@@ -16,8 +16,7 @@ Pre-requisites
 
 - [Documentation](https://developer.amazon.com/docs/in-app-purchasing/iap-get-started.html)
 
-- [![Amazon IAP Video Tutorial](https://img.youtube.com/vi/cmPAY16wGb0/0.jpg)](https://www.youtube.com/watch?v=cmPAY16wGb0)
-
+[![Amazon IAP Video Tutorial](https://img.youtube.com/vi/cmPAY16wGb0/0.jpg)](https://www.youtube.com/watch?v=cmPAY16wGb0)
 
 Getting Started
 ---------------
