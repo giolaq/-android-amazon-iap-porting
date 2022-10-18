@@ -16,6 +16,9 @@ Pre-requisites
 
 - [Documentation](https://developer.amazon.com/docs/in-app-purchasing/iap-get-started.html)
 
+- [![Amazon IAP Video Tutorial](https://img.youtube.com/vi/cmPAY16wGb0/0.jpg)](https://www.youtube.com/watch?v=cmPAY16wGb0)
+
+
 Getting Started
 ---------------
 
@@ -39,6 +42,7 @@ To Set up for the Amazon Appstore IAP
 6. Build and run your app.
 
 7. Make some purchases.
+
 
 Notes
 -----
