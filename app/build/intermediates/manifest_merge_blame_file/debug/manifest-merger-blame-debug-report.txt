@@ -30,7 +30,7 @@
 26-->[com.android.billingclient:billing-ktx:4.0.0] /Users/laquigi/.gradle/caches/transforms-3/b4c3d9fe127b6ce7b6c2cca8052042c9/transformed/jetified-billing-ktx-4.0.0/AndroidManifest.xml:9:22-64
 27
 28    <application
-28-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:19:5-46:19
+28-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:19:5-54:19
 29        android:name="com.sample.android.trivialdrivesample.TrivialDriveApplication"
 29-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:20:9-85
 30        android:allowBackup="true"
@@ -44,94 +44,108 @@
 34-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:22:9-41
 35        android:supportsRtl="true"
 35-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:25:9-35
-36        android:testOnly="true"
-37        android:theme="@style/AppTheme" >
-37-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:24:9-40
-38        <activity
-38-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:26:9-34:20
-39            android:name="com.sample.android.trivialdrivesample.ui.MainActivity"
-39-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:27:13-81
-40            android:exported="true"
-40-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:29:13-36
-41            android:label="@string/title_game_fragment" >
-41-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:28:13-56
-42            <intent-filter>
-42-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:30:13-33:29
-43                <action android:name="android.intent.action.MAIN" />
-43-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:31:17-69
-43-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:31:25-66
-44
-45                <category android:name="android.intent.category.LAUNCHER" />
-45-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:32:17-77
-45-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:32:27-74
-46            </intent-filter>
-47        </activity>
-48
-49        <receiver
-49-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:35:9-42:20
-50            android:name="com.amazon.device.iap.ResponseReceiver"
-50-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:36:13-66
-51            android:exported="true"
-51-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:37:13-36
-52            android:permission="com.amazon.inapp.purchasing.Permission.NOTIFY" >
-52-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:38:13-79
-53            <intent-filter>
-53-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:39:13-41:29
-54                <action android:name="com.amazon.inapp.purchasing.NOTIFY" />
-54-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:40:17-77
-54-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:40:25-74
-55            </intent-filter>
-56        </receiver>
-57
-58        <meta-data
-58-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:43:9-45:57
-59            android:name="preloaded_fonts"
-59-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:44:13-43
-60            android:resource="@array/preloaded_fonts" />
-60-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:45:13-54
-61
-62        <service
-62-->[androidx.room:room-runtime:2.4.3] /Users/laquigi/.gradle/caches/transforms-3/2a7570b848a35b90e6e2851ba5e37c9e/transformed/room-runtime-2.4.3/AndroidManifest.xml:25:9-28:40
-63            android:name="androidx.room.MultiInstanceInvalidationService"
-63-->[androidx.room:room-runtime:2.4.3] /Users/laquigi/.gradle/caches/transforms-3/2a7570b848a35b90e6e2851ba5e37c9e/transformed/room-runtime-2.4.3/AndroidManifest.xml:26:13-74
-64            android:directBootAware="true"
-64-->[androidx.room:room-runtime:2.4.3] /Users/laquigi/.gradle/caches/transforms-3/2a7570b848a35b90e6e2851ba5e37c9e/transformed/room-runtime-2.4.3/AndroidManifest.xml:27:13-43
-65            android:exported="false" />
-65-->[androidx.room:room-runtime:2.4.3] /Users/laquigi/.gradle/caches/transforms-3/2a7570b848a35b90e6e2851ba5e37c9e/transformed/room-runtime-2.4.3/AndroidManifest.xml:28:13-37
-66
-67        <provider
-67-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/f8f2a3ef00040c1cb7a48147424a5a75/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
-68            android:name="androidx.startup.InitializationProvider"
-68-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/f8f2a3ef00040c1cb7a48147424a5a75/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:27:13-67
-69            android:authorities="dev.giolaq.trivialdrivesample.androidx-startup"
-69-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/f8f2a3ef00040c1cb7a48147424a5a75/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:28:13-68
-70            android:exported="false" >
-70-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/f8f2a3ef00040c1cb7a48147424a5a75/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:29:13-37
-71            <meta-data
-71-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/f8f2a3ef00040c1cb7a48147424a5a75/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
-72                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-72-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/f8f2a3ef00040c1cb7a48147424a5a75/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
-73                android:value="androidx.startup" />
-73-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/f8f2a3ef00040c1cb7a48147424a5a75/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
-74        </provider>
-75
-76        <meta-data
-76-->[com.android.billingclient:billing:4.0.0] /Users/laquigi/.gradle/caches/transforms-3/4dc7c9b70e6960a7790a6bc883454800/transformed/jetified-billing-4.0.0/AndroidManifest.xml:13:9-15:37
-77            android:name="com.google.android.play.billingclient.version"
-77-->[com.android.billingclient:billing:4.0.0] /Users/laquigi/.gradle/caches/transforms-3/4dc7c9b70e6960a7790a6bc883454800/transformed/jetified-billing-4.0.0/AndroidManifest.xml:14:13-73
-78            android:value="4.0.0" />
-78-->[com.android.billingclient:billing:4.0.0] /Users/laquigi/.gradle/caches/transforms-3/4dc7c9b70e6960a7790a6bc883454800/transformed/jetified-billing-4.0.0/AndroidManifest.xml:15:13-34
-79
-80        <activity
-80-->[com.android.billingclient:billing:4.0.0] /Users/laquigi/.gradle/caches/transforms-3/4dc7c9b70e6960a7790a6bc883454800/transformed/jetified-billing-4.0.0/AndroidManifest.xml:17:9-21:75
-81            android:name="com.android.billingclient.api.ProxyBillingActivity"
-81-->[com.android.billingclient:billing:4.0.0] /Users/laquigi/.gradle/caches/transforms-3/4dc7c9b70e6960a7790a6bc883454800/transformed/jetified-billing-4.0.0/AndroidManifest.xml:18:13-78
-82            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
-82-->[com.android.billingclient:billing:4.0.0] /Users/laquigi/.gradle/caches/transforms-3/4dc7c9b70e6960a7790a6bc883454800/transformed/jetified-billing-4.0.0/AndroidManifest.xml:19:13-96
-83            android:exported="false"
-83-->[com.android.billingclient:billing:4.0.0] /Users/laquigi/.gradle/caches/transforms-3/4dc7c9b70e6960a7790a6bc883454800/transformed/jetified-billing-4.0.0/AndroidManifest.xml:20:13-37
-84            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-84-->[com.android.billingclient:billing:4.0.0] /Users/laquigi/.gradle/caches/transforms-3/4dc7c9b70e6960a7790a6bc883454800/transformed/jetified-billing-4.0.0/AndroidManifest.xml:21:13-72
-85    </application>
+36        android:theme="@style/AppTheme" >
+36-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:24:9-40
+37        <activity
+37-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:26:9-34:20
+38            android:name="com.sample.android.trivialdrivesample.ui.MainActivity"
+38-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:27:13-81
+39            android:exported="true"
+39-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:29:13-36
+40            android:label="@string/title_game_fragment" >
+40-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:28:13-56
+41            <intent-filter>
+41-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:30:13-33:29
+42                <action android:name="android.intent.action.MAIN" />
+42-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:31:17-69
+42-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:31:25-66
+43
+44                <category android:name="android.intent.category.LAUNCHER" />
+44-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:32:17-77
+44-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:32:27-74
+45            </intent-filter>
+46        </activity>
+47
+48        <receiver
+48-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:35:9-42:20
+49            android:name="com.amazon.device.iap.ResponseReceiver"
+49-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:36:13-66
+50            android:exported="true"
+50-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:37:13-36
+51            android:permission="com.amazon.inapp.purchasing.Permission.NOTIFY" >
+51-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:38:13-79
+52            <intent-filter>
+52-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:39:13-41:29
+53                <action android:name="com.amazon.inapp.purchasing.NOTIFY" />
+53-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:40:17-77
+53-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:40:25-74
+54            </intent-filter>
+55        </receiver>
+56        <receiver
+56-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:44:9-49:20
+57            android:name="com.amazon.device.iap.billingclient.api.BillingResponseReceiver"
+57-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:44:19-97
+58            android:exported="true"
+58-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:44:98-121
+59            android:permission="com.amazon.inapp.purchasing.Permission.NOTIFY" >
+59-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:45:13-79
+60            <intent-filter>
+60-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:39:13-41:29
+61                <action android:name="com.amazon.inapp.purchasing.NOTIFY" />
+61-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:40:17-77
+61-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:40:25-74
+62            </intent-filter>
+63        </receiver>
+64
+65        <meta-data
+65-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:51:9-53:57
+66            android:name="preloaded_fonts"
+66-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:52:13-43
+67            android:resource="@array/preloaded_fonts" />
+67-->/Users/laquigi/AndroidStudioProjects/android-amazon-iap-porting/app/src/main/AndroidManifest.xml:53:13-54
+68
+69        <service
+69-->[androidx.room:room-runtime:2.4.3] /Users/laquigi/.gradle/caches/transforms-3/2a7570b848a35b90e6e2851ba5e37c9e/transformed/room-runtime-2.4.3/AndroidManifest.xml:25:9-28:40
+70            android:name="androidx.room.MultiInstanceInvalidationService"
+70-->[androidx.room:room-runtime:2.4.3] /Users/laquigi/.gradle/caches/transforms-3/2a7570b848a35b90e6e2851ba5e37c9e/transformed/room-runtime-2.4.3/AndroidManifest.xml:26:13-74
+71            android:directBootAware="true"
+71-->[androidx.room:room-runtime:2.4.3] /Users/laquigi/.gradle/caches/transforms-3/2a7570b848a35b90e6e2851ba5e37c9e/transformed/room-runtime-2.4.3/AndroidManifest.xml:27:13-43
+72            android:exported="false" />
+72-->[androidx.room:room-runtime:2.4.3] /Users/laquigi/.gradle/caches/transforms-3/2a7570b848a35b90e6e2851ba5e37c9e/transformed/room-runtime-2.4.3/AndroidManifest.xml:28:13-37
+73
+74        <provider
+74-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/f8f2a3ef00040c1cb7a48147424a5a75/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+75            android:name="androidx.startup.InitializationProvider"
+75-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/f8f2a3ef00040c1cb7a48147424a5a75/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:27:13-67
+76            android:authorities="dev.giolaq.trivialdrivesample.androidx-startup"
+76-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/f8f2a3ef00040c1cb7a48147424a5a75/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:28:13-68
+77            android:exported="false" >
+77-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/f8f2a3ef00040c1cb7a48147424a5a75/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:29:13-37
+78            <meta-data
+78-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/f8f2a3ef00040c1cb7a48147424a5a75/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+79                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+79-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/f8f2a3ef00040c1cb7a48147424a5a75/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+80                android:value="androidx.startup" />
+80-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/laquigi/.gradle/caches/transforms-3/f8f2a3ef00040c1cb7a48147424a5a75/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+81        </provider>
+82
+83        <meta-data
+83-->[com.android.billingclient:billing:4.0.0] /Users/laquigi/.gradle/caches/transforms-3/4dc7c9b70e6960a7790a6bc883454800/transformed/jetified-billing-4.0.0/AndroidManifest.xml:13:9-15:37
+84            android:name="com.google.android.play.billingclient.version"
+84-->[com.android.billingclient:billing:4.0.0] /Users/laquigi/.gradle/caches/transforms-3/4dc7c9b70e6960a7790a6bc883454800/transformed/jetified-billing-4.0.0/AndroidManifest.xml:14:13-73
+85            android:value="4.0.0" />
+85-->[com.android.billingclient:billing:4.0.0] /Users/laquigi/.gradle/caches/transforms-3/4dc7c9b70e6960a7790a6bc883454800/transformed/jetified-billing-4.0.0/AndroidManifest.xml:15:13-34
 86
-87</manifest>
+87        <activity
+87-->[com.android.billingclient:billing:4.0.0] /Users/laquigi/.gradle/caches/transforms-3/4dc7c9b70e6960a7790a6bc883454800/transformed/jetified-billing-4.0.0/AndroidManifest.xml:17:9-21:75
+88            android:name="com.android.billingclient.api.ProxyBillingActivity"
+88-->[com.android.billingclient:billing:4.0.0] /Users/laquigi/.gradle/caches/transforms-3/4dc7c9b70e6960a7790a6bc883454800/transformed/jetified-billing-4.0.0/AndroidManifest.xml:18:13-78
+89            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+89-->[com.android.billingclient:billing:4.0.0] /Users/laquigi/.gradle/caches/transforms-3/4dc7c9b70e6960a7790a6bc883454800/transformed/jetified-billing-4.0.0/AndroidManifest.xml:19:13-96
+90            android:exported="false"
+90-->[com.android.billingclient:billing:4.0.0] /Users/laquigi/.gradle/caches/transforms-3/4dc7c9b70e6960a7790a6bc883454800/transformed/jetified-billing-4.0.0/AndroidManifest.xml:20:13-37
+91            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+91-->[com.android.billingclient:billing:4.0.0] /Users/laquigi/.gradle/caches/transforms-3/4dc7c9b70e6960a7790a6bc883454800/transformed/jetified-billing-4.0.0/AndroidManifest.xml:21:13-72
+92    </application>
+93
+94</manifest>

@@ -2,18 +2,18 @@ package com.sample.android.trivialdrivesample.billing;
 
 import java.lang.System;
 
-@kotlin.Metadata(mv = {1, 7, 1}, k = 1, d1 = {"\u0000\u0096\u0001\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0000\n\u0002\u0010\u0011\n\u0002\u0010\u000e\n\u0002\b\u0004\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0002\u0010\u000b\n\u0000\n\u0002\u0010#\n\u0002\u0010 \n\u0000\n\u0002\u0018\u0002\n\u0002\b\u0002\n\u0002\u0018\u0002\n\u0000\n\u0002\u0010\t\n\u0000\n\u0002\u0010%\n\u0002\u0018\u0002\n\u0002\b\u0002\n\u0002\u0018\u0002\n\u0000\n\u0002\u0010\u0002\n\u0002\b\u0002\n\u0002\u0018\u0002\n\u0002\b\b\n\u0002\u0018\u0002\n\u0002\b\r\n\u0002\u0018\u0002\n\u0002\b\u0005\n\u0002\u0018\u0002\n\u0002\b\u0012\u0018\u0000 U2\u00020\u00012\u00020\u00022\u00020\u00032\u00020\u0004:\u0002UVBG\b\u0002\u0012\u0006\u0010\u0005\u001a\u00020\u0006\u0012\u0006\u0010\u0007\u001a\u00020\b\u0012\u000e\u0010\t\u001a\n\u0012\u0004\u0012\u00020\u000b\u0018\u00010\n\u0012\u000e\u0010\f\u001a\n\u0012\u0004\u0012\u00020\u000b\u0018\u00010\n\u0012\u000e\u0010\r\u001a\n\u0012\u0004\u0012\u00020\u000b\u0018\u00010\n\u00a2\u0006\u0002\u0010\u000eJ\u0018\u0010$\u001a\u00020%2\u000e\u0010&\u001a\n\u0012\u0004\u0012\u00020\u000b\u0018\u00010\u0016H\u0002J\u0016\u0010\'\u001a\b\u0012\u0004\u0012\u00020\u00130(2\u0006\u0010)\u001a\u00020\u000bH\u0016J\u0019\u0010*\u001a\u00020%2\u0006\u0010)\u001a\u00020\u000bH\u0096@\u00f8\u0001\u0000\u00a2\u0006\u0002\u0010+J\u0019\u0010,\u001a\u00020%2\u0006\u0010-\u001a\u00020\u001bH\u0082@\u00f8\u0001\u0000\u00a2\u0006\u0002\u0010.J\u000e\u0010/\u001a\b\u0012\u0004\u0012\u00020\u00130(H\u0016J\u0014\u00100\u001a\u000e\u0012\n\u0012\b\u0012\u0004\u0012\u00020\u000b0\u001601H\u0016J\u0014\u00102\u001a\u000e\u0012\n\u0012\b\u0012\u0004\u0012\u00020\u000b0\u001601H\u0016J-\u00103\u001a\b\u0012\u0004\u0012\u00020\u001b0\u00162\f\u00104\u001a\b\u0012\u0004\u0012\u00020\u000b0\n2\u0006\u00105\u001a\u00020\u000bH\u0082@\u00f8\u0001\u0000\u00a2\u0006\u0002\u00106J\u0016\u00107\u001a\b\u0012\u0004\u0012\u00020\u000b0(2\u0006\u0010)\u001a\u00020\u000bH\u0016J\u0016\u00108\u001a\b\u0012\u0004\u0012\u00020\u000b0(2\u0006\u0010)\u001a\u00020\u000bH\u0016J\u0016\u00109\u001a\b\u0012\u0004\u0012\u00020\u000b0(2\u0006\u0010)\u001a\u00020\u000bH\u0016J\b\u0010:\u001a\u00020%H\u0002J\u0016\u0010;\u001a\b\u0012\u0004\u0012\u00020\u00130(2\u0006\u0010)\u001a\u00020\u000bH\u0016J\u0010\u0010<\u001a\u00020\u00132\u0006\u0010-\u001a\u00020\u001bH\u0002J3\u0010=\u001a\u00020%2\b\u0010>\u001a\u0004\u0018\u00010?2\u0006\u0010)\u001a\u00020\u000b2\u0012\u0010@\u001a\n\u0012\u0006\b\u0001\u0012\u00020\u000b0\n\"\u00020\u000bH\u0016\u00a2\u0006\u0002\u0010AJ\b\u0010B\u001a\u00020%H\u0016J\u0010\u0010C\u001a\u00020%2\u0006\u0010D\u001a\u00020EH\u0016J \u0010F\u001a\u00020%2\u0006\u0010D\u001a\u00020E2\u000e\u0010G\u001a\n\u0012\u0004\u0012\u00020\u001b\u0018\u00010\u0016H\u0016J \u0010H\u001a\u00020%2\u0006\u0010D\u001a\u00020E2\u000e\u0010I\u001a\n\u0012\u0004\u0012\u00020 \u0018\u00010\u0016H\u0002J(\u0010J\u001a\u00020%2\u000e\u0010K\u001a\n\u0012\u0004\u0012\u00020\u001b\u0018\u00010\u00162\u000e\u0010L\u001a\n\u0012\u0004\u0012\u00020\u000b\u0018\u00010\u0016H\u0002J\u0011\u0010M\u001a\u00020%H\u0082@\u00f8\u0001\u0000\u00a2\u0006\u0002\u0010NJ\u0011\u0010O\u001a\u00020%H\u0096@\u00f8\u0001\u0000\u00a2\u0006\u0002\u0010NJ\b\u0010P\u001a\u00020%H\u0007J\b\u0010Q\u001a\u00020%H\u0002J\u0018\u0010R\u001a\u00020%2\u0006\u0010)\u001a\u00020\u000b2\u0006\u0010S\u001a\u00020#H\u0002J\u0010\u0010T\u001a\u00020%2\u0006\u0010-\u001a\u00020\u001bH\u0002R\u000e\u0010\u000f\u001a\u00020\u0010X\u0082\u0004\u00a2\u0006\u0002\n\u0000R\u0014\u0010\u0011\u001a\b\u0012\u0004\u0012\u00020\u00130\u0012X\u0082\u0004\u00a2\u0006\u0002\n\u0000R\u000e\u0010\u0007\u001a\u00020\bX\u0082\u0004\u00a2\u0006\u0002\n\u0000R\u0014\u0010\u0014\u001a\b\u0012\u0004\u0012\u00020\u000b0\u0015X\u0082\u0004\u00a2\u0006\u0002\n\u0000R\u0016\u0010\t\u001a\n\u0012\u0004\u0012\u00020\u000b\u0018\u00010\u0016X\u0082\u0004\u00a2\u0006\u0002\n\u0000R\u0016\u0010\f\u001a\n\u0012\u0004\u0012\u00020\u000b\u0018\u00010\u0016X\u0082\u0004\u00a2\u0006\u0002\n\u0000R\u001a\u0010\u0017\u001a\u000e\u0012\n\u0012\b\u0012\u0004\u0012\u00020\u000b0\u00160\u0018X\u0082\u0004\u00a2\u0006\u0002\n\u0000R\u001a\u0010\u0019\u001a\u000e\u0012\n\u0012\b\u0012\u0004\u0012\u00020\u000b0\u00160\u0018X\u0082\u0004\u00a2\u0006\u0002\n\u0000R\u0014\u0010\u001a\u001a\b\u0012\u0004\u0012\u00020\u001b0\u0015X\u0082\u0004\u00a2\u0006\u0002\n\u0000R\u000e\u0010\u001c\u001a\u00020\u001dX\u0082\u000e\u00a2\u0006\u0002\n\u0000R\"\u0010\u001e\u001a\u0016\u0012\u0004\u0012\u00020\u000b\u0012\f\u0012\n\u0012\u0006\u0012\u0004\u0018\u00010 0\u00120\u001fX\u0082\u0004\u00a2\u0006\u0002\n\u0000R\u000e\u0010!\u001a\u00020\u001dX\u0082\u000e\u00a2\u0006\u0002\n\u0000R \u0010\"\u001a\u0014\u0012\u0004\u0012\u00020\u000b\u0012\n\u0012\b\u0012\u0004\u0012\u00020#0\u00120\u001fX\u0082\u0004\u00a2\u0006\u0002\n\u0000\u0082\u0002\u0004\n\u0002\b\u0019\u00a8\u0006W"}, d2 = {"Lcom/sample/android/trivialdrivesample/billing/BillingDataSource;", "Landroidx/lifecycle/LifecycleObserver;", "Lcom/android/billingclient/api/PurchasesUpdatedListener;", "Lcom/android/billingclient/api/BillingClientStateListener;", "Lcom/sample/android/trivialdrivesample/billing/IBillingDataSource;", "application", "Landroid/app/Application;", "defaultScope", "Lkotlinx/coroutines/CoroutineScope;", "knownInappSKUs", "", "", "knownSubscriptionSKUs", "autoConsumeSKUs", "(Landroid/app/Application;Lkotlinx/coroutines/CoroutineScope;[Ljava/lang/String;[Ljava/lang/String;[Ljava/lang/String;)V", "billingClient", "Lcom/android/billingclient/api/BillingClient;", "billingFlowInProcess", "Lkotlinx/coroutines/flow/MutableStateFlow;", "", "knownAutoConsumeSKUs", "", "", "newPurchaseFlow", "Lkotlinx/coroutines/flow/MutableSharedFlow;", "purchaseConsumedFlow", "purchaseConsumptionInProcess", "Lcom/android/billingclient/api/Purchase;", "reconnectMilliseconds", "", "skuDetailsMap", "", "Lcom/android/billingclient/api/SkuDetails;", "skuDetailsResponseTime", "skuStateMap", "Lcom/sample/android/trivialdrivesample/billing/BillingDataSource$SkuState;", "addSkuFlows", "", "skuList", "canPurchase", "Lkotlinx/coroutines/flow/Flow;", "sku", "consumeInappPurchase", "(Ljava/lang/String;Lkotlin/coroutines/Continuation;)Ljava/lang/Object;", "consumePurchase", "purchase", "(Lcom/android/billingclient/api/Purchase;Lkotlin/coroutines/Continuation;)Ljava/lang/Object;", "getBillingFlowInProcess", "getConsumedPurchases", "Lkotlinx/coroutines/flow/SharedFlow;", "getNewPurchases", "getPurchases", "skus", "skuType", "([Ljava/lang/String;Ljava/lang/String;Lkotlin/coroutines/Continuation;)Ljava/lang/Object;", "getSkuDescription", "getSkuPrice", "getSkuTitle", "initializeFlows", "isPurchased", "isSignatureValid", "launchBillingFlow", "activity", "Landroid/app/Activity;", "upgradeSkusVarargs", "(Landroid/app/Activity;Ljava/lang/String;[Ljava/lang/String;)V", "onBillingServiceDisconnected", "onBillingSetupFinished", "billingResult", "Lcom/android/billingclient/api/BillingResult;", "onPurchasesUpdated", "list", "onSkuDetailsResponse", "skuDetailsList", "processPurchaseList", "purchases", "skusToUpdate", "querySkuDetailsAsync", "(Lkotlin/coroutines/Continuation;)Ljava/lang/Object;", "refreshPurchases", "resume", "retryBillingServiceConnectionWithExponentialBackoff", "setSkuState", "newSkuState", "setSkuStateFromPurchase", "Companion", "SkuState", "app_debug"})
-public final class BillingDataSource implements androidx.lifecycle.LifecycleObserver, com.android.billingclient.api.PurchasesUpdatedListener, com.android.billingclient.api.BillingClientStateListener, com.sample.android.trivialdrivesample.billing.IBillingDataSource {
+@kotlin.Metadata(mv = {1, 7, 1}, k = 1, d1 = {"\u0000\u0096\u0001\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0000\n\u0002\u0010\u0011\n\u0002\u0010\u000e\n\u0002\b\u0004\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0002\u0010\u000b\n\u0000\n\u0002\u0010#\n\u0002\u0010 \n\u0000\n\u0002\u0018\u0002\n\u0002\b\u0002\n\u0002\u0018\u0002\n\u0000\n\u0002\u0010\t\n\u0000\n\u0002\u0010%\n\u0002\u0018\u0002\n\u0002\b\u0002\n\u0002\u0018\u0002\n\u0000\n\u0002\u0010\u0002\n\u0002\b\u0002\n\u0002\u0018\u0002\n\u0002\b\b\n\u0002\u0018\u0002\n\u0002\b\f\n\u0002\u0018\u0002\n\u0002\b\u0005\n\u0002\u0018\u0002\n\u0002\b\u0012\u0018\u0000 T2\u00020\u00012\u00020\u00022\u00020\u00032\u00020\u0004:\u0002TUBG\b\u0002\u0012\u0006\u0010\u0005\u001a\u00020\u0006\u0012\u0006\u0010\u0007\u001a\u00020\b\u0012\u000e\u0010\t\u001a\n\u0012\u0004\u0012\u00020\u000b\u0018\u00010\n\u0012\u000e\u0010\f\u001a\n\u0012\u0004\u0012\u00020\u000b\u0018\u00010\n\u0012\u000e\u0010\r\u001a\n\u0012\u0004\u0012\u00020\u000b\u0018\u00010\n\u00a2\u0006\u0002\u0010\u000eJ\u0018\u0010$\u001a\u00020%2\u000e\u0010&\u001a\n\u0012\u0004\u0012\u00020\u000b\u0018\u00010\u0016H\u0002J\u0016\u0010\'\u001a\b\u0012\u0004\u0012\u00020\u00130(2\u0006\u0010)\u001a\u00020\u000bH\u0016J\u0019\u0010*\u001a\u00020%2\u0006\u0010)\u001a\u00020\u000bH\u0096@\u00f8\u0001\u0000\u00a2\u0006\u0002\u0010+J\u0019\u0010,\u001a\u00020%2\u0006\u0010-\u001a\u00020\u001bH\u0086@\u00f8\u0001\u0000\u00a2\u0006\u0002\u0010.J\u000e\u0010/\u001a\b\u0012\u0004\u0012\u00020\u00130(H\u0016J\u0014\u00100\u001a\u000e\u0012\n\u0012\b\u0012\u0004\u0012\u00020\u000b0\u001601H\u0016J\u0014\u00102\u001a\u000e\u0012\n\u0012\b\u0012\u0004\u0012\u00020\u000b0\u001601H\u0016J-\u00103\u001a\b\u0012\u0004\u0012\u00020\u001b0\u00162\f\u00104\u001a\b\u0012\u0004\u0012\u00020\u000b0\n2\u0006\u00105\u001a\u00020\u000bH\u0082@\u00f8\u0001\u0000\u00a2\u0006\u0002\u00106J\u0016\u00107\u001a\b\u0012\u0004\u0012\u00020\u000b0(2\u0006\u0010)\u001a\u00020\u000bH\u0016J\u0016\u00108\u001a\b\u0012\u0004\u0012\u00020\u000b0(2\u0006\u0010)\u001a\u00020\u000bH\u0016J\u0016\u00109\u001a\b\u0012\u0004\u0012\u00020\u000b0(2\u0006\u0010)\u001a\u00020\u000bH\u0016J\b\u0010:\u001a\u00020%H\u0002J\u0016\u0010;\u001a\b\u0012\u0004\u0012\u00020\u00130(2\u0006\u0010)\u001a\u00020\u000bH\u0016J3\u0010<\u001a\u00020%2\b\u0010=\u001a\u0004\u0018\u00010>2\u0006\u0010)\u001a\u00020\u000b2\u0012\u0010?\u001a\n\u0012\u0006\b\u0001\u0012\u00020\u000b0\n\"\u00020\u000bH\u0016\u00a2\u0006\u0002\u0010@J\b\u0010A\u001a\u00020%H\u0016J\u0010\u0010B\u001a\u00020%2\u0006\u0010C\u001a\u00020DH\u0016J \u0010E\u001a\u00020%2\u0006\u0010C\u001a\u00020D2\u000e\u0010F\u001a\n\u0012\u0004\u0012\u00020\u001b\u0018\u00010\u0016H\u0016J \u0010G\u001a\u00020%2\u0006\u0010C\u001a\u00020D2\u000e\u0010H\u001a\n\u0012\u0004\u0012\u00020 \u0018\u00010\u0016H\u0002J(\u0010I\u001a\u00020%2\u000e\u0010J\u001a\n\u0012\u0004\u0012\u00020\u001b\u0018\u00010\u00162\u000e\u0010K\u001a\n\u0012\u0004\u0012\u00020\u000b\u0018\u00010\u0016H\u0002J\u0011\u0010L\u001a\u00020%H\u0082@\u00f8\u0001\u0000\u00a2\u0006\u0002\u0010MJ\u0011\u0010N\u001a\u00020%H\u0096@\u00f8\u0001\u0000\u00a2\u0006\u0002\u0010MJ\b\u0010O\u001a\u00020%H\u0007J\b\u0010P\u001a\u00020%H\u0002J\u0018\u0010Q\u001a\u00020%2\u0006\u0010)\u001a\u00020\u000b2\u0006\u0010R\u001a\u00020#H\u0002J\u0010\u0010S\u001a\u00020%2\u0006\u0010-\u001a\u00020\u001bH\u0002R\u000e\u0010\u000f\u001a\u00020\u0010X\u0082\u0004\u00a2\u0006\u0002\n\u0000R\u0014\u0010\u0011\u001a\b\u0012\u0004\u0012\u00020\u00130\u0012X\u0082\u0004\u00a2\u0006\u0002\n\u0000R\u000e\u0010\u0007\u001a\u00020\bX\u0082\u0004\u00a2\u0006\u0002\n\u0000R\u0014\u0010\u0014\u001a\b\u0012\u0004\u0012\u00020\u000b0\u0015X\u0082\u0004\u00a2\u0006\u0002\n\u0000R\u0016\u0010\t\u001a\n\u0012\u0004\u0012\u00020\u000b\u0018\u00010\u0016X\u0082\u0004\u00a2\u0006\u0002\n\u0000R\u0016\u0010\f\u001a\n\u0012\u0004\u0012\u00020\u000b\u0018\u00010\u0016X\u0082\u0004\u00a2\u0006\u0002\n\u0000R\u001a\u0010\u0017\u001a\u000e\u0012\n\u0012\b\u0012\u0004\u0012\u00020\u000b0\u00160\u0018X\u0082\u0004\u00a2\u0006\u0002\n\u0000R\u001a\u0010\u0019\u001a\u000e\u0012\n\u0012\b\u0012\u0004\u0012\u00020\u000b0\u00160\u0018X\u0082\u0004\u00a2\u0006\u0002\n\u0000R\u0014\u0010\u001a\u001a\b\u0012\u0004\u0012\u00020\u001b0\u0015X\u0082\u0004\u00a2\u0006\u0002\n\u0000R\u000e\u0010\u001c\u001a\u00020\u001dX\u0082\u000e\u00a2\u0006\u0002\n\u0000R\"\u0010\u001e\u001a\u0016\u0012\u0004\u0012\u00020\u000b\u0012\f\u0012\n\u0012\u0006\u0012\u0004\u0018\u00010 0\u00120\u001fX\u0082\u0004\u00a2\u0006\u0002\n\u0000R\u000e\u0010!\u001a\u00020\u001dX\u0082\u000e\u00a2\u0006\u0002\n\u0000R \u0010\"\u001a\u0014\u0012\u0004\u0012\u00020\u000b\u0012\n\u0012\b\u0012\u0004\u0012\u00020#0\u00120\u001fX\u0082\u0004\u00a2\u0006\u0002\n\u0000\u0082\u0002\u0004\n\u0002\b\u0019\u00a8\u0006V"}, d2 = {"Lcom/sample/android/trivialdrivesample/billing/BillingDataSource;", "Landroidx/lifecycle/LifecycleObserver;", "Lcom/amazon/device/iap/billingclient/api/PurchasesUpdatedListener;", "Lcom/amazon/device/iap/billingclient/api/BillingClientStateListener;", "Lcom/sample/android/trivialdrivesample/billing/IBillingDataSource;", "application", "Landroid/app/Application;", "defaultScope", "Lkotlinx/coroutines/CoroutineScope;", "knownInappSKUs", "", "", "knownSubscriptionSKUs", "autoConsumeSKUs", "(Landroid/app/Application;Lkotlinx/coroutines/CoroutineScope;[Ljava/lang/String;[Ljava/lang/String;[Ljava/lang/String;)V", "billingClient", "Lcom/amazon/device/iap/billingclient/api/BillingClient;", "billingFlowInProcess", "Lkotlinx/coroutines/flow/MutableStateFlow;", "", "knownAutoConsumeSKUs", "", "", "newPurchaseFlow", "Lkotlinx/coroutines/flow/MutableSharedFlow;", "purchaseConsumedFlow", "purchaseConsumptionInProcess", "Lcom/amazon/device/iap/billingclient/api/Purchase;", "reconnectMilliseconds", "", "skuDetailsMap", "", "Lcom/amazon/device/iap/billingclient/api/SkuDetails;", "skuDetailsResponseTime", "skuStateMap", "Lcom/sample/android/trivialdrivesample/billing/BillingDataSource$SkuState;", "addSkuFlows", "", "skuList", "canPurchase", "Lkotlinx/coroutines/flow/Flow;", "sku", "consumeInappPurchase", "(Ljava/lang/String;Lkotlin/coroutines/Continuation;)Ljava/lang/Object;", "consumePurchase", "purchase", "(Lcom/amazon/device/iap/billingclient/api/Purchase;Lkotlin/coroutines/Continuation;)Ljava/lang/Object;", "getBillingFlowInProcess", "getConsumedPurchases", "Lkotlinx/coroutines/flow/SharedFlow;", "getNewPurchases", "getPurchases", "skus", "skuType", "([Ljava/lang/String;Ljava/lang/String;Lkotlin/coroutines/Continuation;)Ljava/lang/Object;", "getSkuDescription", "getSkuPrice", "getSkuTitle", "initializeFlows", "isPurchased", "launchBillingFlow", "activity", "Landroid/app/Activity;", "upgradeSkusVarargs", "(Landroid/app/Activity;Ljava/lang/String;[Ljava/lang/String;)V", "onBillingServiceDisconnected", "onBillingSetupFinished", "billingResult", "Lcom/amazon/device/iap/billingclient/api/BillingResult;", "onPurchasesUpdated", "list", "onSkuDetailsResponse", "skuDetailsList", "processPurchaseList", "purchases", "skusToUpdate", "querySkuDetailsAsync", "(Lkotlin/coroutines/Continuation;)Ljava/lang/Object;", "refreshPurchases", "resume", "retryBillingServiceConnectionWithExponentialBackoff", "setSkuState", "newSkuState", "setSkuStateFromPurchase", "Companion", "SkuState", "app_debug"})
+public final class BillingDataSource implements androidx.lifecycle.LifecycleObserver, com.amazon.device.iap.billingclient.api.PurchasesUpdatedListener, com.amazon.device.iap.billingclient.api.BillingClientStateListener, com.sample.android.trivialdrivesample.billing.IBillingDataSource {
     private final kotlinx.coroutines.CoroutineScope defaultScope = null;
-    private final com.android.billingclient.api.BillingClient billingClient = null;
+    private final com.amazon.device.iap.billingclient.api.BillingClient billingClient = null;
     private final java.util.List<java.lang.String> knownInappSKUs = null;
     private final java.util.List<java.lang.String> knownSubscriptionSKUs = null;
     private final java.util.Set<java.lang.String> knownAutoConsumeSKUs = null;
     private long reconnectMilliseconds = 1000L;
     private long skuDetailsResponseTime = -14400000L;
     private final java.util.Map<java.lang.String, kotlinx.coroutines.flow.MutableStateFlow<com.sample.android.trivialdrivesample.billing.BillingDataSource.SkuState>> skuStateMap = null;
-    private final java.util.Map<java.lang.String, kotlinx.coroutines.flow.MutableStateFlow<com.android.billingclient.api.SkuDetails>> skuDetailsMap = null;
-    private final java.util.Set<com.android.billingclient.api.Purchase> purchaseConsumptionInProcess = null;
+    private final java.util.Map<java.lang.String, kotlinx.coroutines.flow.MutableStateFlow<com.amazon.device.iap.billingclient.api.SkuDetails>> skuDetailsMap = null;
+    private final java.util.Set<com.amazon.device.iap.billingclient.api.Purchase> purchaseConsumptionInProcess = null;
     private final kotlinx.coroutines.flow.MutableSharedFlow<java.util.List<java.lang.String>> newPurchaseFlow = null;
     private final kotlinx.coroutines.flow.MutableSharedFlow<java.util.List<java.lang.String>> purchaseConsumedFlow = null;
     private final kotlinx.coroutines.flow.MutableStateFlow<java.lang.Boolean> billingFlowInProcess = null;
@@ -30,7 +30,7 @@ public final class BillingDataSource implements androidx.lifecycle.LifecycleObse
     
     @java.lang.Override()
     public void onBillingSetupFinished(@org.jetbrains.annotations.NotNull()
-    com.android.billingclient.api.BillingResult billingResult) {
+    com.amazon.device.iap.billingclient.api.BillingResult billingResult) {
     }
     
     /**
@@ -51,7 +51,7 @@ public final class BillingDataSource implements androidx.lifecycle.LifecycleObse
     /**
      * Called by initializeFlows to create the various Flow objects we're planning to emit.
      * @param skuList a List<String> of SKUs representing purchases and subscriptions.
-     *    </String>
+     *   </String>
      */
     private final void addSkuFlows(java.util.List<java.lang.String> skuList) {
     }
@@ -111,7 +111,7 @@ public final class BillingDataSource implements androidx.lifecycle.LifecycleObse
      * The title of our SKU from SkuDetails.
      * @param sku to get the title from
      * @return title of the requested SKU as an observable Flow<String>
-     *    </String>
+     *   </String>
      */
     @org.jetbrains.annotations.NotNull()
     @java.lang.Override()
@@ -140,7 +140,7 @@ public final class BillingDataSource implements androidx.lifecycle.LifecycleObse
      * Store the SkuDetails and post them in the [.skuDetailsMap]. This allows other
      * parts of the app to use the [SkuDetails] to show SKU information and make purchases.
      */
-    private final void onSkuDetailsResponse(com.android.billingclient.api.BillingResult billingResult, java.util.List<? extends com.android.billingclient.api.SkuDetails> skuDetailsList) {
+    private final void onSkuDetailsResponse(com.amazon.device.iap.billingclient.api.BillingResult billingResult, java.util.List<com.amazon.device.iap.billingclient.api.SkuDetails> skuDetailsList) {
     }
     
     /**
@@ -159,6 +159,13 @@ public final class BillingDataSource implements androidx.lifecycle.LifecycleObse
         return null;
     }
     
+    @java.lang.Override()
+    public void launchBillingFlow(@org.jetbrains.annotations.Nullable()
+    android.app.Activity activity, @org.jetbrains.annotations.NotNull()
+    java.lang.String sku, @org.jetbrains.annotations.NotNull()
+    java.lang.String... upgradeSkusVarargs) {
+    }
+    
     /**
      * Used internally to get purchases from a requested set of SKUs. This is particularly
      * important when changing subscriptions, as onPurchasesUpdated won't update the purchase state
@@ -168,7 +175,7 @@ public final class BillingDataSource implements androidx.lifecycle.LifecycleObse
      * @param skuType sku type, inapp or subscription, to get purchase information for.
      * @return purchases
      */
-    private final java.lang.Object getPurchases(java.lang.String[] skus, java.lang.String skuType, kotlin.coroutines.Continuation<? super java.util.List<? extends com.android.billingclient.api.Purchase>> continuation) {
+    private final java.lang.Object getPurchases(java.lang.String[] skus, java.lang.String skuType, kotlin.coroutines.Continuation<? super java.util.List<com.amazon.device.iap.billingclient.api.Purchase>> continuation) {
         return null;
     }
     
@@ -191,7 +198,7 @@ public final class BillingDataSource implements androidx.lifecycle.LifecycleObse
      * acknowledged state.
      * @param purchase an up-to-date object to set the state for the Sku
      */
-    private final void setSkuStateFromPurchase(com.android.billingclient.api.Purchase purchase) {
+    private final void setSkuStateFromPurchase(com.amazon.device.iap.billingclient.api.Purchase purchase) {
     }
     
     /**
@@ -228,7 +235,7 @@ public final class BillingDataSource implements androidx.lifecycle.LifecycleObse
      * @param skusToUpdate a list of skus that we want to update the state from --- this allows us
      * to set the state of non-returned SKUs to UNPURCHASED.
      */
-    private final void processPurchaseList(java.util.List<? extends com.android.billingclient.api.Purchase> purchases, java.util.List<java.lang.String> skusToUpdate) {
+    private final void processPurchaseList(java.util.List<com.amazon.device.iap.billingclient.api.Purchase> purchases, java.util.List<java.lang.String> skusToUpdate) {
     }
     
     /**
@@ -236,25 +243,11 @@ public final class BillingDataSource implements androidx.lifecycle.LifecycleObse
      * is ready to be consumed. If the sku is already being consumed, does nothing.
      * @param purchase purchase to consume
      */
-    private final java.lang.Object consumePurchase(com.android.billingclient.api.Purchase purchase, kotlin.coroutines.Continuation<? super kotlin.Unit> continuation) {
+    @org.jetbrains.annotations.Nullable()
+    public final java.lang.Object consumePurchase(@org.jetbrains.annotations.NotNull()
+    com.amazon.device.iap.billingclient.api.Purchase purchase, @org.jetbrains.annotations.NotNull()
+    kotlin.coroutines.Continuation<? super kotlin.Unit> continuation) {
         return null;
-    }
-    
-    /**
-     * Launch the billing flow. This will launch an external Activity for a result, so it requires
-     * an Activity reference. For subscriptions, it supports upgrading from one SKU type to another
-     * by passing in SKUs to be upgraded.
-     *
-     * @param activity active activity to launch our billing flow from
-     * @param sku SKU (Product ID) to be purchased
-     * @param upgradeSkusVarargs SKUs that the subscription can be upgraded from
-     * @return true if launch is successful
-     */
-    @java.lang.Override()
-    public void launchBillingFlow(@org.jetbrains.annotations.Nullable()
-    android.app.Activity activity, @org.jetbrains.annotations.NotNull()
-    java.lang.String sku, @org.jetbrains.annotations.NotNull()
-    java.lang.String... upgradeSkusVarargs) {
     }
     
     /**
@@ -277,16 +270,8 @@ public final class BillingDataSource implements androidx.lifecycle.LifecycleObse
      */
     @java.lang.Override()
     public void onPurchasesUpdated(@org.jetbrains.annotations.NotNull()
-    com.android.billingclient.api.BillingResult billingResult, @org.jetbrains.annotations.Nullable()
-    java.util.List<? extends com.android.billingclient.api.Purchase> list) {
-    }
-    
-    /**
-     * Ideally your implementation will comprise a secure server, rendering this check
-     * unnecessary. @see [Security]
-     */
-    private final boolean isSignatureValid(com.android.billingclient.api.Purchase purchase) {
-        return false;
+    com.amazon.device.iap.billingclient.api.BillingResult billingResult, @org.jetbrains.annotations.Nullable()
+    java.util.List<com.amazon.device.iap.billingclient.api.Purchase> list) {
     }
     
     /**
